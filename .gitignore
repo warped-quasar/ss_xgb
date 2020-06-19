@@ -1,0 +1,7 @@
+# Project exclude paths
+/data/
+/locating_arcs/
+/miscellaneous/
+/model_2020_data/
+/models/
+/plots/
